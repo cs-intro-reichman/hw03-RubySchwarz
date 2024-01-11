@@ -1,7 +1,3 @@
-import java.lang.Object;
-import java.lang.String;
-import java.lang.Math;
-
 /*
  * Prints the calendar of a given year.
  */
